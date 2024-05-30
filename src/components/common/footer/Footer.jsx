@@ -8,11 +8,11 @@ const Footer = () => {
         <div className='container'>
           <div className='box logo'>
             <img src='../images/tech-logo-footer.png' alt='' />
-            <p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p>
+            <p>Swagat is an amazing magazine Blogger theme that is easy to customize for your needs</p>
             <i className='fa fa-envelope'></i>
-            <span> hello@beautiful.com </span> <br />
+            <span> swagatmishra@gmail.com </span> <br />
             <i className='fa fa-headphones'></i>
-            <span> +91 60521488</span>
+            <span> +91 7358408160</span>
           </div>
           <div className='box'>
             <h3>SPORT</h3>
@@ -60,7 +60,7 @@ const Footer = () => {
         <div className='container flexSB'>
           <p>© all rights reserved</p>
           <p>
-            made with <i className='fa fa-heart'></i> by gorkhcoder
+            made with <i className='fa fa-heart'></i> by Swagat
           </p>
         </div>
       </div>
